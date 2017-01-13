@@ -101,7 +101,7 @@
 
       "lang_scheduletitle03":"Monitor appliances' status",
 
-      "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, <br> humidity, and appliances' status for you.",
+      "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, <br>humidity, and appliances' status for you.",
   
 
 
