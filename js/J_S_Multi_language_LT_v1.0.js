@@ -119,7 +119,7 @@ function changeImageByLang(lang_index){
   var eng_img3_src="images/img_uservoice_ma_eng.jpg";
 
   var tw_img4_src="images/how_it_works.jpg";
-  var eng_img4_src="images/how_it_works_eng.jpg";
+  var eng_img44_src="images/how_it_works_eng.jpg";
 
 
   //var tw_img3_src="images/slider_example_3_tw.jpg";
@@ -131,14 +131,14 @@ function changeImageByLang(lang_index){
         document.getElementById('lang_user_grandpa').src=tw_img1_src;
         document.getElementById('lang_user_sister').src=tw_img2_src;
         document.getElementById('lang_user_ma').src=tw_img3_src;
-        document.getElementById('lang_workimg').src=tw_img4_src;
+        document.getElementById('lang_worksimg').src=tw_img4_src;
         console.log("change image to CHT version");
       break;
     case 1:
         document.getElementById('lang_user_grandpa').src=eng_img1_src;
         document.getElementById('lang_user_sister').src=eng_img2_src;
         document.getElementById('lang_user_ma').src=eng_img3_src;
-        document.getElementById('lang_workimg').src=eng_img4_src;
+        document.getElementById('lang_worksimg').src=eng_img44_src;
         console.log("change image to ENG version");
       break;
     case 2:
