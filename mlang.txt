@@ -10,7 +10,7 @@
       "lang_naven": "EN - 英文",
       
       "lang_bannertitle": "有了智能小管家",
-      "lang_bannertext":"原來智慧生活這麼簡單",
+      "lang_bannertext_a":"原來智慧生活這麼簡單",
       "lang_bannerdownload": "立即下載APP",
 
       "lang_featuretitle":"您的貼心生活小幫手",
@@ -59,16 +59,16 @@
    {
     
       "lang_title": "歡迎來到EQL - 智能小管家網站",
-      "lang_nav_feature": "產品功能",
-      "lang_nav_contact": "聯絡我們",
-      "lang_nav_download": "下載",
+      "lang_nav_feature": "Product",
+      "lang_nav_contact": "Contact us",
+      "lang_nav_download": "Download",
       "lang_nav_faq": "FAQ",
 
       "lang_navch": "TW - 繁體中文",
       "lang_naven": "EN - 英文",
       
       "lang_bannertitle": "Ripple Control - ",
-      "lang_bannertext":"Turn your phone into the remote control for all your smart appliances",
+      "lang_bannertext_a":"Turn your phone into the remote control for all your smart appliances",
       "lang_bannerdownload": "立即下載APP",
 
       "lang_featuretitle":"Your Smart Appliance Controller",
@@ -103,6 +103,8 @@
       "lang_scheduletitle03_1":" ",
       "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, humidity, and appliances' status for you.",
   
+
+
 
       "lang_order":"An Universal IR Controller",
       "lang_order_cont":"Support more than 95% of appliance brands on market",
