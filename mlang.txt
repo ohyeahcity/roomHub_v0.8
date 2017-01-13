@@ -38,8 +38,8 @@
       "lang_scheduletitle01":"高度客製化排程讓您完全主導室內環溫狀態",
       "lang_scheduletitle02":"輕鬆進行時間排程開關電器",
 
-      "lang_scheduletitle02_cont01":"回家路上提前開啟空調，到家即享受舒適溫度",
-      "lang_scheduletitle02_cont02":"利用排程，擁有舒適的睡眠空間",
+      "lang_scheduletitle02_cont01":"回家路上提前開啟空調，到家即享受舒適溫度<br>利用排程，擁有舒適的睡眠空間",
+
 
       "lang_scheduletitle03":"即時了解家中電器運轉狀態",
       "lang_scheduletitle03_1":"與環境溫濕度",
@@ -69,7 +69,7 @@
       
       "lang_bannertitle": "Ripple Control - <br>Turn your phone into the remote control for all your smart appliances",
       
-      "lang_bannerdownload": "立即下載APP",
+      "lang_bannerdownload": "Download APP",
 
       "lang_featuretitle":"Your Smart Appliance Controller",
       "lang_featurecont": "Smart Life, Smart Living",
@@ -96,8 +96,8 @@
       "lang_scheduletitle01":"Make Your Home a More Comfortable and Enjoyable Place",
       "lang_scheduletitle02":"Schedule your home appliances",
 
-      "lang_scheduletitle02_cont01":"Turn on your air-conditioner before arriving home, ",
-      "lang_scheduletitle02_cont02":"and schedule to switch temperature automatically while sleeping.",
+      "lang_scheduletitle02_cont01":"Turn on your air-conditioner before arriving home,<br>and schedule to switch temperature automatically while sleeping. ",
+
 
       "lang_scheduletitle03":"Monitor appliances' status",
       "lang_scheduletitle03_1":" ",
