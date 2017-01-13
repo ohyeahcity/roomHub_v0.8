@@ -168,7 +168,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_naven').innerHTML = arr[lang_index].lang_naven;
 
   document.getElementById('lang_bannertitle').innerHTML = arr[lang_index].lang_bannertitle;
-  document.getElementById('lang_bannertext').innerHTML = arr[lang_index].lang_bannertext;
+  document.getElementById('lang_bannertext_a').innerHTML = arr[lang_index].lang_bannertext_a;
   document.getElementById('lang_bannerdownload').innerHTML = arr[lang_index].lang_bannerdownload;
 
   document.getElementById('lang_featuretitle').innerHTML = arr[lang_index].lang_featuretitle;
