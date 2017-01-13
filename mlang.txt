@@ -86,7 +86,7 @@
       "lang_featureicon04": "Temperature & Humidity Detector",
       "lang_featureicon04_cont": "Built-in Temperature&Humidity Detector",
 
-      "lang_cftitle":"您的智能小管家",
+      "lang_cftitle":"Your Home Appliances Controller",
       "lang_cfcont":"以前您等待清涼，現在清涼等待您",
 
       "lang_worktitle":"Application Diagram",
@@ -101,7 +101,7 @@
 
       "lang_scheduletitle03":"Monitor appliances' status",
 
-      "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, humidity, and appliances' status for you.",
+      "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, <br> humidity, and appliances' status for you.",
   
 
 
