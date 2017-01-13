@@ -106,15 +106,20 @@ function changeImageByLang(lang_index){
 
   // 圖片路徑 請自行更換，不夠用也可以自己新增
   console.log("change image function start now");
-  var tw_img1_src="images/hbpc_banner.jpg";
-  var eng_img1_src="images/hbpc_banner_eng.jpg";
+  var tw_img1_src="images/img_uservoice_grandpa.jpg";
+  var eng_img1_src="images/img_uservoice_grandpa_eng.jpg";
+
+
   // var jp_img1_src="images/pcstick_banner_v2_0808.jpg";
 
-  var tw_img2_src="images/displayport.jpg";
-  var eng_img2_src="images/displayport_eng.jpg";
+  var tw_img2_src="images/img_uservoice_sister.jpg";
+  var eng_img2_src="images/img_uservoice_sister_eng.jpg";
 
-  var tw_img3_src="images/displayport_min.jpg";
-  var eng_img3_src="images/displayport_min_eng.jpg";
+  var tw_img3_src="images/img_uservoice_ma.jpg";
+  var eng_img3_src="images/img_uservoice_ma_eng.jpg";
+
+  var tw_img4_src="images/how_it_works.jpg";
+  var eng_img4_src="images/how_it_works_eng.jpg";
 
 
   //var tw_img3_src="images/slider_example_3_tw.jpg";
@@ -123,19 +128,21 @@ function changeImageByLang(lang_index){
 
   switch (lang_index) {
     case 0:
-        document.getElementById('slideshowImage1').src=tw_img1_src;
-        document.getElementById('lang_port').src=tw_img2_src;
-        document.getElementById('lang_port_min').src=tw_img3_src;
+        document.getElementById('lang_user_grandpa').src=tw_img1_src;
+        document.getElementById('lang_user_sister').src=tw_img2_src;
+        document.getElementById('lang_user_ma').src=tw_img3_src;
+        document.getElementById('lang_workimg').src=tw_img4_src;
         console.log("change image to CHT version");
       break;
     case 1:
-        document.getElementById('slideshowImage1').src=eng_img1_src;
-        document.getElementById('lang_port').src=eng_img2_src;
-        document.getElementById('lang_port_min').src=eng_img3_src;
+        document.getElementById('lang_user_grandpa').src=eng_img1_src;
+        document.getElementById('lang_user_sister').src=eng_img2_src;
+        document.getElementById('lang_user_ma').src=eng_img3_src;
+        document.getElementById('lang_workimg').src=eng_img4_src;
         console.log("change image to ENG version");
       break;
     case 2:
-        document.getElementById('slideshowImage1').src=jp_img1_src;
+        // document.getElementById('slideshowImage1').src=jp_img1_src;
      
         console.log("change image to JP version");
       break;
@@ -196,10 +203,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_scheduletitle03_1').innerHTML = arr[lang_index].lang_scheduletitle03_1;
   document.getElementById('lang_scheduletitle03_cont').innerHTML = arr[lang_index].lang_scheduletitle03_cont;
 
-  document.getElementById('lang_function01').innerHTML = arr[lang_index].lang_function01;
-  document.getElementById('lang_function02').innerHTML = arr[lang_index].lang_function02;
-  document.getElementById('lang_function03').innerHTML = arr[lang_index].lang_function03;
-  document.getElementById('lang_function04').innerHTML = arr[lang_index].lang_function04;
+
 
   document.getElementById('lang_order').innerHTML = arr[lang_index].lang_order;
   document.getElementById('lang_order_cont').innerHTML = arr[lang_index].lang_order_cont;  

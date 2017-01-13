@@ -45,10 +45,6 @@
       "lang_scheduletitle03_1":"與環境溫濕度",
       "lang_scheduletitle03_cont":"安全、節能、最環保",
 
-      "lang_function01":"不只在家中操控，也可利用APP透過網路遠端遙控更方便，並有多項雲端服務應用。",
-      "lang_function02":"自由設定排程控制多項電器開關與選擇模式，更舒適更節能。",
-      "lang_function03":"內建溫濕度感測器，家中即時狀況報您知，居家環溫安全一手掌握。",
-      "lang_function04":"透過藍牙與紅外線，連結並控制各個家中電器，邁向物聯網家庭。",
 
       "lang_order":"唯一了解您的智能小管家",
       "lang_order_cont":"擁有充足的紅外線控制電器資料庫，支援市面上超過 95% 的品牌，一網打盡，智慧節能真的好簡單！",
@@ -106,11 +102,7 @@
       "lang_scheduletitle03":"Monitor appliances' status",
       "lang_scheduletitle03_1":" ",
       "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, humidity, and appliances' status for you.",
-
-      "lang_function01":"",
-      "lang_function02":"自由設定排程控制多項電器開關與選擇模式，更舒適更節能。",
-      "lang_function03":"內建溫濕度感測器，家中即時狀況報您知，居家環溫安全一手掌握。",
-      "lang_function04":"透過藍牙與紅外線，連結並控制各個家中電器，邁向物聯網家庭。",
+  
 
       "lang_order":"An Universal IR Controller",
       "lang_order_cont":"Support more than 95% of appliance brands on market",

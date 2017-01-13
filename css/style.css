@@ -675,6 +675,11 @@ h1, h2
 		padding:80px 0px;
 		min-height:700px;
 	}
+
+	.eng .uiimg{
+		background:url(../images/img_interfaces_en.png) no-repeat bottom right;
+	}
+
 	
 	.caption {
 		float:left;
@@ -737,6 +742,10 @@ h1, h2
 		min-height:275px;
 		padding:80px 0px;
 	}
+
+	.eng.five{
+		display: none;
+	} 
 	
 	.promotebg {
 		background:url(../images/bg_product.jpg) center no-repeat;
