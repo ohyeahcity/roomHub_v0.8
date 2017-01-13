@@ -1,0 +1,125 @@
+[
+   {
+      "lang_title": "歡迎來到EQL - 智能小管家網站",
+      "lang_nav_feature": "產品功能",
+      "lang_nav_contact": "聯絡我們",
+      "lang_nav_download": "下載",
+      "lang_nav_faq": "FAQ",
+
+      "lang_navch": "TW - 繁體中文",
+      "lang_naven": "EN - 英文",
+      
+      "lang_bannertitle": "有了智能小管家",
+      "lang_bannertext":"原來智慧生活這麼簡單",
+      "lang_bannerdownload": "立即下載APP",
+
+      "lang_featuretitle":"您的貼心生活小幫手",
+      "lang_featurecont": "Smart Life, Smart Living",
+
+      "lang_featureicon01": "24hr 遠端遙控",
+      "lang_featureicon01_cont": "任何時候，任何地方，透過專屬APP控制空調等家電，享受節能、舒適、便利的智能生活。",
+
+      "lang_featureicon02": "分享設定",
+      "lang_featureicon02_cont": "多組設定，多人遠端控制也沒問題！與家人一同打造高品質的生活環境。",
+
+      "lang_featureicon03": "自由排程",
+      "lang_featureicon03_cont": "預設排程，按時自動開啟關閉家電，感受科技與生活的完美結合。",
+
+      "lang_featureicon04": "即時溫濕度",
+      "lang_featureicon04_cont": "智能小管家內建溫濕度感應器，使用者能隨時掌握實際環溫狀況。",
+
+      "lang_cftitle":"您的智能小管家",
+      "lang_cfcont":"以前您等待清涼，現在清涼等待您",
+
+      "lang_worktitle":"運作方式",
+      
+      "lang_opiniontitle":"支援多人多組家電設定",
+
+      "lang_scheduletitle01":"高度客製化排程讓您完全主導室內環溫狀態",
+      "lang_scheduletitle02":"輕鬆進行時間排程開關電器",
+
+      "lang_scheduletitle02_cont01":"回家路上提前開啟空調，到家即享受舒適溫度",
+      "lang_scheduletitle02_cont02":"利用排程，擁有舒適的睡眠空間",
+
+      "lang_scheduletitle03":"即時了解家中電器運轉狀態",
+      "lang_scheduletitle03_1":"與環境溫濕度",
+      "lang_scheduletitle03_cont":"安全、節能、最環保",
+
+      "lang_function01":"不只在家中操控，也可利用APP透過網路遠端遙控更方便，並有多項雲端服務應用。",
+      "lang_function02":"自由設定排程控制多項電器開關與選擇模式，更舒適更節能。",
+      "lang_function03":"內建溫濕度感測器，家中即時狀況報您知，居家環溫安全一手掌握。",
+      "lang_function04":"透過藍牙與紅外線，連結並控制各個家中電器，邁向物聯網家庭。",
+
+      "lang_order":"唯一了解您的智能小管家",
+      "lang_order_cont":"擁有充足的紅外線控制電器資料庫，支援市面上超過 95% 的品牌，一網打盡，智慧節能真的好簡單！",
+      "lang_order_app":"立即下載APP",
+
+      "lang_contact":"聯絡我們",
+      "lang_contact_cont":"若您有任何疑問，歡迎與我們聯繫",
+      "lang_contact_send":"發送訊息",
+      "lang_footer":"您的智能小管家"
+ 
+   },
+   {
+    
+      "lang_title": "歡迎來到EQL - 智能小管家網站",
+      "lang_nav_feature": "產品功能",
+      "lang_nav_contact": "聯絡我們",
+      "lang_nav_download": "下載",
+      "lang_nav_faq": "FAQ",
+
+      "lang_navch": "TW - 繁體中文",
+      "lang_naven": "EN - 英文",
+      
+      "lang_bannertitle": "Ripple Control - ",
+      "lang_bannertext":"Turn your phone into the remote control for all your smart appliances",
+      "lang_bannerdownload": "立即下載APP",
+
+      "lang_featuretitle":"Your Smart Appliance Controller",
+      "lang_featurecont": "Smart Life, Smart Living",
+
+      "lang_featureicon01": "24hr Remote Control",
+      "lang_featureicon01_cont": "Through our mobile app, control all your appliances anytime and anywhere.",
+
+      "lang_featureicon02": "Share Settings",
+      "lang_featureicon02_cont": "Control appliances remotely through various groups of settings shared among family members",
+
+      "lang_featureicon03": "Create a schedule",
+      "lang_featureicon03_cont": "Schedule to turn off/on appliances.",
+
+      "lang_featureicon04": "Temperature & Humidity Detector",
+      "lang_featureicon04_cont": "Built-in Temperature&Humidity Detector",
+
+      "lang_cftitle":"您的智能小管家",
+      "lang_cfcont":"以前您等待清涼，現在清涼等待您",
+
+      "lang_worktitle":"Application Diagram",
+      
+      "lang_opiniontitle":"Family Sharing",
+
+      "lang_scheduletitle01":"Make Your Home a More Comfortable and Enjoyable Place",
+      "lang_scheduletitle02":"Schedule your home appliances",
+
+      "lang_scheduletitle02_cont01":"Turn on your air-conditioner before arriving home, ",
+      "lang_scheduletitle02_cont02":"and schedule to switch temperature automatically while sleeping.",
+
+      "lang_scheduletitle03":"Monitor appliances' status",
+      "lang_scheduletitle03_1":" ",
+      "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, humidity, and appliances' status for you.",
+
+      "lang_function01":"",
+      "lang_function02":"自由設定排程控制多項電器開關與選擇模式，更舒適更節能。",
+      "lang_function03":"內建溫濕度感測器，家中即時狀況報您知，居家環溫安全一手掌握。",
+      "lang_function04":"透過藍牙與紅外線，連結並控制各個家中電器，邁向物聯網家庭。",
+
+      "lang_order":"An Universal IR Controller",
+      "lang_order_cont":"Support more than 95% of appliance brands on market",
+      "lang_order_app":"Download App",
+
+      "lang_contact":"Contact us",
+      "lang_contact_cont":"Whatever you'd like to know",
+      "lang_contact_send":"SEND",
+      "lang_footer":"Your Home Appliances Controller"
+
+   }
+]

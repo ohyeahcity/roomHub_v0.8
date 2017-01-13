@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title id="lang_title" >EQL - Enjoy Quality Life</title>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
+    
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" >
+    <link rel="stylesheet" href="css/animate.css">
+
+    
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js?ver=1.9.0"></script>
+    
+       
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar_style" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">
+                    <img alt="Brand" src="images/logo.png">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#" class="nav_product" data-id="features" id="lang_nav_feature">產品功能</a>
+                    </li>
+                    <li>
+                        <a href="#" class="nav_contact" data-id="contact" id="lang_nav_contact">聯絡我們</a>
+                    </li>
+                    <li>
+                        <a href="download.html" target="_blank" id="lang_nav_download">下載</a>
+                    </li>
+                    <li>
+                        <a href="FAQ.html" target="_blank" id="lang_nav_faq">FAQ</a>
+                    </li>
+
+          <!-- 中英文轉換 -->
+                    <li class="dropdown">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="change_dropdown_title">TW - 繁體中文<b class="caret"></b></a>
+                              <ul class="dropdown-menu">
+                                  <li>
+                                      <a href="#" onclick="chg_lang(0)" id="lang_navch">TW - 繁體中文</a>
+                                  </li>
+                                  <li>
+                                      <a href="#" onclick="chg_lang(1)" id="lang_naven">EN - 英文</a>
+                                  </li>                                  
+                              </ul>
+                     </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <section id="banner">
+      <div class="container">
+        <div class="row">
+          <div class="wow fadeIn col-md-8 bannerL" data-wow-duration="1.5s" data-wow-delay="0.5s">
+            <h4 id="lang_bannertitle">有了智能小管家<br id="lang_bannertext">原來智慧生活這麼簡單</h4>
+            <a href="download.html" class="button font20" id="lang_bannerdownload">立即下載APP</a>
+          </div>
+          <div class="wow fadeIn col-md-4 posi_down"><img src="images/img_product.png" class="img-responsive"></div>
+        </div>
+      </div>
+   </section>
+   
+   <!--產品功能-->
+   <section id="features" class="container">
+    <div class="title1">
+      <h5 id="lang_featuretitle">您的貼心生活小幫手</h5><br>
+      <h6 class="lang_featurecont">Smart Life, Smart Living</h6>
+    </div>
+      <div class="row">
+        <div class="col-md-3 col-sm-6 boxD wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0s">
+          <img src="images/icon_24hr.png" width="96" height="95">
+          <h6 id="lang_featureicon01">24hr 遠端遙控 </h6>
+          <p id="lang_featureicon01_cont">任何時候，任何地方，透過專屬APP控制空調等家電，享受節能、舒適、便利的智能生活。</p>
+        </div>
+
+        <div class="col-md-3 col-sm-6 boxD wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.3s">
+          <img src="images/icon_users.png" width="96" height="95">
+          <h6 id="lang_featureicon02">分享設定</h6>
+          <p id="lang_featureicon02_cont">多組設定，多人遠端控制也沒問題！與家人一同打造高品質的生活環境。</p>
+        </div>
+
+        <div class="col-md-3 col-sm-6 boxD wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.6s">
+          <img src="images/icon_schedule.png" width="96" height="95">
+          <h6 id="lang_featureicon03">自由排程</h6>
+          <p id="lang_featureicon03_cont">預設排程，按時自動開啟關閉家電，感受科技與生活的完美結合。</p>
+        </div>
+
+        <div class="col-md-3 col-sm-6 boxD wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.9s">
+          <img src="images/icon_temphum.png" width="96" height="95">
+          <h6 id="lang_featureicon04">即時溫濕度</h6>
+          <p id="lang_featureicon04_cont">智能小管家內建溫濕度感應器，使用者能隨時掌握實際環溫狀況。</p>
+        </div>
+
+      </div>
+   </section>
+   
+   <!--全國廣告CF-->
+   <section id="advideo" class="bggray">
+      <div class="container">
+        <div class="videoview wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
+          <div class="embed-responsive embed-responsive-16by9 video_bg">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tjgqW7yeCy0" frameborder="0" allowfullscreen></iframe>
+          </div>
+          </div>
+        <h6 id="lang_cftitle">您的智能小管家</h6>
+        <h5 id="lang_cfcont">以前您等待清涼，現在清涼等待您</h5>
+      </div>
+    </section>
+    
+    <!--運作原理圖示-->
+    <section id="howitworks" class="container">
+      <h5 id="lang_worktitle">運作方式</h5>
+      <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s"><img src="images/how_it_works.jpg" class="img-responsive"></div>
+    </section>
+    
+    <!--使用者意見-->
+    <section id="uservoice" class="bglight">
+     <div class="container">
+        <h5 id="lang_opiniontitle">支援多人多組家電設定</h5>
+        <div class="row">
+          <div class="col-sm-4 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s"><img src="images/img_uservoice_grandpa.jpg" class="img-responsive"></div>
+          <div class="col-sm-4 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.7s"><img src="images/img_uservoice_sister.jpg" class="img-responsive"></div>
+          <div class="col-sm-4 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.9s"><img src="images/img_uservoice_ma.jpg" class="img-responsive"></div>
+        </div>
+      </div>
+    </section>
+    
+    <!--排程與產品介面-->
+    <section id="interface">
+      <div class="uiimg">
+        <div class="container">
+          <h5 id="lang_scheduletitle01">高度客製化排程讓您完全主導室內環溫狀態</h5>
+          <div class="caption wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
+            <table border="0">
+              <tbody>
+                <tr>
+                  <td><img src="images/icon_timer.png"></td>
+                  <td>
+                    <h6 id="lang_scheduletitle02">輕鬆進行時間排程開關電器</h6><p></p>
+                    <p id="lang_scheduletitle02_cont01">回家路上提前開啟空調，到家即享受舒適溫度<br id="lang_scheduletitle02_cont02">利用排程，擁有舒適的睡眠空間</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="caption wow fadeIn row" data-wow-duration="1.5s" data-wow-delay="0.5s">
+            <table border="0">
+              <tbody>
+                <tr>
+                  <td><img src="images/icon_calendar.png"></td>
+                  <td>
+                    <h6 id="lang_scheduletitle03">即時了解家中電器運轉狀態<br id="lang_scheduletitle03_1">與環境溫濕度</h6><p></p>
+                    <p id="lang_scheduletitle03_cont">安全、節能、最環保</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!--四項主打功能-->
+    <section class="five">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 boxE">
+            <img src="images/icon_cloud.png">
+            <p id="lang_function01" >不只在家中操控，也可利用APP透過網路遠端遙控更方便，並有多項雲端服務應用。</p>
+          </div>
+          <div class="col-md-3 boxE">
+            <img src="images/icon_calendar_gary.png">
+            <p id="lang_function02" >自由設定排程控制多項電器開關與選擇模式，更舒適更節能。</p>
+          </div>
+          <div class="col-md-3 boxE">
+            <img src="images/icon_temp.png">
+            <p id="lang_function03">內建溫濕度感測器，家中即時狀況報您知，居家環溫安全一手掌握。</p>
+          </div>
+          <div class="col-md-3 boxE">
+            <img src="images/icon_wifi.png">
+            <p id="lang_function04">透過藍牙與紅外線，連結並控制各個家中電器，邁向物聯網家庭。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!--推薦與訂購-->
+    <section id="promotion" class="promotebg">
+      <div class="container">
+         <div class="promote_wording">
+            <h3 id="lang_order">唯一了解您的智能小管家</h3>
+            <p id="lang_order_cont">擁有充足的紅外線控制電器資料庫，支援市面上超過 95% 的品牌，一網打盡，智慧節能真的好簡單！</p>
+         </div>
+        <a href="download.html" target="_blank" class="button2" id="lang_order_app">立即下載APP</a>
+      </div>
+    </section>
+    
+    <!--聯絡我們-->
+    <section id="contact">
+	<div id="newsletter" class="container">
+		<div class="title">
+			<h2 id="lang_contact">聯絡我們</h2>
+			<span class="byline" id="lang_contact_cont">若您有任何疑問，歡迎與我們聯繫</span> 
+        </div>
+        <div class="row">
+		<div class="col-md-6 col-md-offset-3 wow fadeIn padding8p" data-wow-duration="1.5s" data-wow-delay="0.5s">
+			<form method="post" action="#">
+				<div class="half">
+					<div class="6u">
+						<input type="text" class="text" name="name" placeholder="Name" />
+					</div>
+					<div class="6u">
+						<input type="text" class="text" name="email" placeholder="Email" />
+					</div>
+				</div>
+				<div class="half">
+					<div class="12u">
+						<textarea name="message" placeholder="Message"></textarea>
+					</div>
+				</div>
+				<div class="row">
+					<div class="12u"> <a href="#" class="button"  id="lang_contact_send">發送訊息</a> </div>
+				</div>
+			</form>
+		</div>
+        </div>
+        
+	</div>
+    </section>
+    
+    <!--Footer-->
+    <footer>
+      <div id="footer">
+        <h3 id="lang_footer">您的智能小管家</h3>
+        <img src="images/logo.png">
+      </div>
+      <div class="footbottom">Copyright&copy;2016 EQL. Inc. All Rights Reserved</div>
+    </footer>
+    
+    <div id="gotop">^<br>Top</div>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    
+    <!--Animate-->
+    <script src="http://cdn.dowebok.com/131/js/wow.min.js"></script>
+	<script>
+	if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))){
+		new WOW().init();
+	};
+	</script>
+    
+    <script type="text/javascript">
+	$(function(){
+
+		$("#gotop").click(function(){
+			jQuery("html,body").animate({
+				scrollTop:0
+			},1000);
+		});
+		$(window).scroll(function() {
+			if ( $(this).scrollTop() > 300){
+				$('#gotop').fadeIn("fast");
+			} else {
+				$('#gotop').stop().fadeOut("fast");
+			}
+		});
+
+
+       var $body = $('html,body');
+ 
+    $('nav a').click(function(){
+        var location = $(this).data('id').toLowerCase();
+        $body.animate({scrollTop: $("#"+location).offset().top}, {duration:1200});
+        return false;
+      });
+      
+	});
+
+	</script>
+    
+    <script>
+
+     (function ($) {
+         $.support.placeholder = ('placeholder' in document.createElement('input'));
+     })(jQuery);
+
+
+     //fix for IE7 and IE8
+     $(function () {
+         if (!$.support.placeholder) {
+             $("[placeholder]").focus(function () {
+                 if ($(this).val() == $(this).attr("placeholder")) $(this).val("");
+             }).blur(function () {
+                 if ($(this).val() == "") $(this).val($(this).attr("placeholder"));
+             }).blur();
+
+             $("[placeholder]").parents("form").submit(function () {
+                 $(this).find('[placeholder]').each(function() {
+                     if ($(this).val() == $(this).attr("placeholder")) {
+                         $(this).val("");
+                     }
+                 });
+             });
+         }
+     });
+ </script>
+    
+    <script src="https://use.typekit.net/hdz4xnt.js"></script>
+	  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script type="text/javascript" src="js/J_S_Multi_language_LT_v1.0.js" async></script>
+
+    
+  </body>
+</html>
