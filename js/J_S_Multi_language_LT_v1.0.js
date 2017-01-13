@@ -200,7 +200,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   // document.getElementById('lang_scheduletitle02_cont02').innerHTML = arr[lang_index].lang_scheduletitle02_cont02;
 
   document.getElementById('lang_scheduletitle03').innerHTML = arr[lang_index].lang_scheduletitle03;
-  document.getElementById('lang_scheduletitle03_1').innerHTML = arr[lang_index].lang_scheduletitle03_1;
+  // document.getElementById('lang_scheduletitle03_1').innerHTML = arr[lang_index].lang_scheduletitle03_1;
   document.getElementById('lang_scheduletitle03_cont').innerHTML = arr[lang_index].lang_scheduletitle03_cont;
 
 
