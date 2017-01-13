@@ -41,8 +41,8 @@
       "lang_scheduletitle02_cont01":"回家路上提前開啟空調，到家即享受舒適溫度<br>利用排程，擁有舒適的睡眠空間",
 
 
-      "lang_scheduletitle03":"即時了解家中電器運轉狀態",
-      "lang_scheduletitle03_1":"與環境溫濕度",
+      "lang_scheduletitle03":"即時了解家中電器運轉狀態<br>與環境溫濕度",
+
       "lang_scheduletitle03_cont":"安全、節能、最環保",
 
 
@@ -100,7 +100,7 @@
 
 
       "lang_scheduletitle03":"Monitor appliances' status",
-      "lang_scheduletitle03_1":" ",
+
       "lang_scheduletitle03_cont":"The Ripple Control gathers information including temperature, humidity, and appliances' status for you.",
   
 
